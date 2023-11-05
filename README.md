@@ -14,7 +14,7 @@ HTML, CSS
 ## Screenshots
 ![blink1](https://github.com/Ojas-Pratap-Singh/Blinkit-clone/assets/128834924/7fdf736b-066b-4db6-ba8c-3b3d089b307b)
 
-![blink2](https://github.com/Ojas-Pratap-Singh/Blinkit-clone/assets/128834924/d8a7b298-15d2-47af-bb86-c97cec668e0f)
+![blink2](https://github.com/Ojas-Pratap-Singh/Blinkit-clone/assets/128834924/dc130706-dea5-408c-b774-e8e745458377)
 
 ![blink3](https://github.com/Ojas-Pratap-Singh/Blinkit-clone/assets/128834924/f1bae346-de77-46dc-8d58-e55a254a138b)
 
